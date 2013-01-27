@@ -3,7 +3,7 @@ test2is here
    /usr/local/bin/node
 -yo
 npm was installed at
--eee
+-eee -nonon2
    /usr/local/bin/npm
 
 Make sure that /usr/local/bin is in your $PATH.
