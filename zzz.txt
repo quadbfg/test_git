@@ -1,9 +1,0 @@
-Node was installed at
-test2is here
-   /usr/local/bin/node
--yo
-npm was installed at
-zzzzzzzz
-   /usr/local/bin/npm
-
-Make sure that /usr/local/bin is in your $PATH.
