@@ -5,5 +5,5 @@ test2is here
 npm was installed at
 -eee -nonon3
    /usr/local/bin/npm
-xxx
+xxxy
 Make sure that /usr/local/bin is in your $PATH.
