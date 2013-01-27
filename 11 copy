@@ -1,11 +1,12 @@
 Node was installed at
-
+test2is here
    /usr/local/bin/node
 
 npm was installed at
 
    /usr/local/bin/npm
 
+<<<<<<< HEAD
 Make sure that /usr/local/bin is in your $PATH.
 <<<<<<< HEAD
 
@@ -20,4 +21,7 @@ sdjfhskfhs
 master here
 =======
 ssssss
+>>>>>>> test2
+=======
+Make sure that /usr/local/bin is in your $PATH.
 >>>>>>> test2
