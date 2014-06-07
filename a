@@ -1,2 +1,7 @@
 num1
+<<<<<<< HEAD
 from master alos this
+=======
+from master
+added from branch
+>>>>>>> branch1
